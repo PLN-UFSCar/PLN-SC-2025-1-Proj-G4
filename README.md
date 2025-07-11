@@ -31,8 +31,3 @@ O projeto utiliza o dataset disponível em:
 **https://github.com/larifeliciana/books-reviews-portuguese/tree/master**
 
 Este dataset contém resenhas de livros coletadas em português, adequadas para análise de sentimentos. As características específicas dos dados e sua estrutura estão documentadas no próprio notebook.
-
----
-**Disciplina**: Processamento de Linguagem Natural  
-**Instituição**: Universidade Federal de São Carlos (UFSCar)  
-**Período**: 2025.1
