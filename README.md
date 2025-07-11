@@ -2,7 +2,7 @@
 Este projeto foi desenvolvido como parte da disciplina de Processamento de Linguagem Natural (PLN) da UFSCar, com foco na análise de sentimentos de textos utilizando diferentes técnicas de aprendizado de máquina e processamento de linguagem natural.
 
 ## Objetivos 🎯
-- Implementar e comparar diferentes abordagens para análise de sentimentos
+- Implementar e comparar diferentes abordagens para análise de sentimentos em um dataset de avaliações de livros de diversos gêneros feitas na Amazon Brasil
 
 ## Estrutura do Projeto 📁
 O projeto está organizado em um notebook Jupyter (`Projeto_PLN.ipynb`) que contém:
